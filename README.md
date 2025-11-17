@@ -28,8 +28,8 @@ Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)
 
 ## <span>📂</span>Desafios Concluídos 
 
-[1000 – Hello World!](./1001ExtremamenteBasico) <br>
-[1001 – Extremamente Básico](./1000HelloWorld)
+[1000 – Hello World!](./1000HelloWorld) <br>
+[1001 – Extremamente Básico](./1001ExtremamenteBasico)
 
 
 ---
@@ -61,6 +61,7 @@ Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)
 **LinkedIn:** https://www.linkedin.com/in/aline-alves-luiz-fernandes  
 **GitHub:** https://github.com/alinefernandess  
 **Repositório:** https://github.com/alinefernandess/beecrowdDesafios
+
 
 
 
