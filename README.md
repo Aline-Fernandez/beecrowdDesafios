@@ -12,7 +12,7 @@ Este repositório reúne minhas soluções para os problemas da plataforma **Bee
 
 # Sumário 📌
 
-- ⭐v[Foco Principal](#foco-principal)
+- ⭐[Foco Principal](#foco-principal)
 - 📂[Desafios Concluídos](#desafios-concluídos)
 - 📊[Progresso dos Problemas](#progresso-dos-problemas)
 - 🧠[Tecnologias e Conceitos Praticados](#tecnologias-e-conceitos-praticados)
@@ -59,5 +59,6 @@ Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)
 **LinkedIn:** https://www.linkedin.com/in/aline-alves-luiz-fernandes  
 **GitHub:** https://github.com/alinefernandess  
 **Repositório:** https://github.com/alinefernandess/beecrowdDesafios
+
 
 
