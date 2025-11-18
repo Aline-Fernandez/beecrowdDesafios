@@ -14,7 +14,6 @@ Este repositório reúne minhas soluções para os problemas da plataforma **Bee
 
 - ⭐[Foco Principal](#foco-principal)
 - 📂[Desafios Concluídos](#desafios-concluídos)
-- 📊[Progresso dos Problemas](#progresso-dos-problemas)
 - 🧠[Tecnologias e Conceitos Praticados](#tecnologias-e-conceitos-praticados)
 - 📬[Contato](#contato)
 
@@ -33,17 +32,6 @@ Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)
 [1002 – Área do Círculo](./1002AreaDoCirculo) <br>
 [1003 – Soma Simples](./1003SomaSimples) <br>
 [1004 – Produto Simples](./1004ProdutoSimples) <br>
-
-
----
-
-## <span>📊</span>Progresso dos Problemas 
-
-| Problema | Status       | Arquivo     |
-|---------:|:------------:|:-----------:|
-| 1000     | ✔️ Resolvido | `1000.cs`   |
-| 1001     | ✔️ Resolvido | `1001.cs`   |
-| 1002     | 📌 Em andamento | —        |
 
 ---
 
@@ -64,6 +52,7 @@ Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)
 **LinkedIn:** https://www.linkedin.com/in/aline-alves-luiz-fernandes  
 **GitHub:** https://github.com/alinefernandess  
 **Repositório:** https://github.com/alinefernandess/beecrowdDesafios
+
 
 
 
