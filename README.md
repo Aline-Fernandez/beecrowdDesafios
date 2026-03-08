@@ -1,63 +1,20 @@
-![image](https://user-images.githubusercontent.com/100028251/235229473-7b3158f1-8399-44b5-8641-9e46ad71f323.png)
+<img src="https://user-images.githubusercontent.com/100028251/235229473-7b3158f1-8399-44b5-8641-9e46ad71f323.png" alt="BeeCrowd Logo" width="300"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Em%20Pausa-orange?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Linguagem-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Finalidade-Lógica-blue?style=for-the-badge" alt="Finalidade" />
+
+# 🐝 Desafios BeeCrowd (C#)
+
+Este repositório reúne as minhas soluções para os problemas da plataforma **BeeCrowd**, desenvolvidas em **C#**. O objetivo principal é o exercício constante da lógica de programação e algoritmos.
+
+> **Nota:** Este projeto encontra-se temporariamente em pausa para priorização de estudos em Java e Engenharia de Software.
 
 ---
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/EM%20Evolução-success?style=for-the-badge)
-
-Este repositório reúne minhas soluções para os problemas da plataforma **BeeCrowd**, desenvolvidas em **C#**.
-
----
-
-# Sumário 📌
-
-- ⭐[Foco Principal](#foco-principal)
-- 📂[Desafios Concluídos](#desafios-concluídos)
-- 🧠[Tecnologias e Conceitos Praticados](#tecnologias-e-conceitos-praticados)
-- 📬[Contato](#contato)
-
----
-
-## <span>⭐</span>Foco Principal 
-
-Meu foco atual é resolver os exercícios da categoria **Iniciante (1000–1100)**.
-
----
-
-## <span>📂</span>Desafios Concluídos 
-
-[1000 – Hello World!](./1000HelloWorld) <br>
-[1001 – Extremamente Básico](./1001ExtremamenteBasico) <br>
-[1002 – Área do Círculo](./1002AreaDoCirculo) <br>
-[1003 – Soma Simples](./1003SomaSimples) <br>
-[1004 – Produto Simples](./1004ProdutoSimples) <br>
-
----
-
-## <span>🧠</span>Tecnologias e Conceitos Praticados  
-
-
-- Lógica de Programação  
-- Estruturas condicionais  
-- Operações matemáticas  
-- Entrada/Saída  
-- Organização de arquivos  
-
----
-
-## <span>📬</span>Contato 
-
-
-**LinkedIn:** https://www.linkedin.com/in/aline-alves-luiz-fernandes  
-**GitHub:** https://github.com/alinefernandess  
-**Repositório:** https://github.com/alinefernandess/beecrowdDesafios
-
-
-
-
-
-
-
-
-
+## 🚀 Desafios Concluídos
+- [x] **1000:** Hello World!
+- [x] **1001:** Extremamente Básico
+- [x] **1002:** Área do Círculo
+- [x] **1003:** Soma Simples
+- [x] **1004:**
