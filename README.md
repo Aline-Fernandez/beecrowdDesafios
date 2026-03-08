@@ -2,9 +2,11 @@
 
 <br>
 
+# 🐝 Desafios BeeCrowd (C#)
+
 <img src="https://img.shields.io/badge/Status-Em%20Pausa-orange?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Linguagem-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Finalidade-Lógica-blue?style=for-the-badge" alt="Finalidade" />
 
-# 🐝 Desafios BeeCrowd (C#)
+
 
 Este repositório reúne as minhas soluções para os problemas da plataforma **BeeCrowd**, desenvolvidas em **C#**. O objetivo principal é o exercício constante da lógica de programação e algoritmos.
 
